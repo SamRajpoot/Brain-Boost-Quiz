@@ -1,0 +1,33 @@
+name: brain_boost_quiz
+description: Offline quiz app with animated premium UI.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  provider: ^6.1.2
+  google_fonts: ^6.2.1
+  shared_preferences: ^2.2.3
+  url_launcher: ^6.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/quiz_data.json
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  image_path: "assets/icon/icon_1024.png"
+  min_sdk_android: 21
+  remove_alpha_ios: true

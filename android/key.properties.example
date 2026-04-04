@@ -1,0 +1,15 @@
+# Example signing configuration for Play Store release
+# COPY this file to "android/key.properties" and fill in your values
+# NEVER commit key.properties to version control!
+
+# The password you set when creating the keystore
+storePassword=SET_YOUR_KEYSTORE_PASSWORD_HERE
+
+# The password you set for the alias key
+keyPassword=SET_YOUR_KEY_PASSWORD_HERE
+
+# The alias you used when creating the key
+keyAlias=brain_boost_key
+
+# Path to your keystore file (relative to android/app/)
+storeFile=../brain_boost_key.jks

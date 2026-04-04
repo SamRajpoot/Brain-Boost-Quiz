@@ -1,0 +1,228 @@
+{
+  "categories": [
+    {
+      "name": "General Knowledge",
+      "icon": "lightbulb",
+      "questions": [
+        {
+          "question": "Which planet is known as the Red Planet?",
+          "options": ["Earth", "Mars", "Jupiter", "Venus"],
+          "answer": 1
+        },
+        {
+          "question": "What is the capital of Japan?",
+          "options": ["Seoul", "Tokyo", "Beijing", "Bangkok"],
+          "answer": 1
+        },
+        {
+          "question": "How many continents are there on Earth?",
+          "options": ["5", "6", "7", "8"],
+          "answer": 2
+        },
+        {
+          "question": "Which language has the most native speakers?",
+          "options": ["English", "Spanish", "Mandarin Chinese", "Hindi"],
+          "answer": 2
+        },
+        {
+          "question": "Who painted the Mona Lisa?",
+          "options": ["Van Gogh", "Leonardo da Vinci", "Picasso", "Michelangelo"],
+          "answer": 1
+        },
+        {
+          "question": "What is the largest ocean on Earth?",
+          "options": ["Indian", "Arctic", "Atlantic", "Pacific"],
+          "answer": 3
+        },
+        {
+          "question": "Which country hosted the 2016 Summer Olympics?",
+          "options": ["China", "Brazil", "UK", "Japan"],
+          "answer": 1
+        },
+        {
+          "question": "Which gas do plants absorb from the atmosphere?",
+          "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+          "answer": 2
+        },
+        {
+          "question": "How many hours are there in a day?",
+          "options": ["12", "18", "24", "36"],
+          "answer": 2
+        },
+        {
+          "question": "Which instrument has 88 keys?",
+          "options": ["Violin", "Piano", "Guitar", "Flute"],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Science",
+      "icon": "science",
+      "questions": [
+        {
+          "question": "What is H2O commonly known as?",
+          "options": ["Water", "Hydrogen", "Oxygen", "Salt"],
+          "answer": 0
+        },
+        {
+          "question": "What is the center of an atom called?",
+          "options": ["Electron", "Nucleus", "Proton", "Shell"],
+          "answer": 1
+        },
+        {
+          "question": "What force keeps us on the ground?",
+          "options": ["Magnetism", "Friction", "Gravity", "Tension"],
+          "answer": 2
+        },
+        {
+          "question": "Which organ pumps blood in the human body?",
+          "options": ["Brain", "Liver", "Lung", "Heart"],
+          "answer": 3
+        },
+        {
+          "question": "What gas do humans need to breathe?",
+          "options": ["Carbon Dioxide", "Oxygen", "Helium", "Nitrogen"],
+          "answer": 1
+        },
+        {
+          "question": "How many planets are in our solar system?",
+          "options": ["7", "8", "9", "10"],
+          "answer": 1
+        },
+        {
+          "question": "What is the boiling point of water at sea level?",
+          "options": ["90 C", "100 C", "110 C", "120 C"],
+          "answer": 1
+        },
+        {
+          "question": "Which part of the plant conducts photosynthesis?",
+          "options": ["Root", "Stem", "Leaf", "Flower"],
+          "answer": 2
+        },
+        {
+          "question": "What is the chemical symbol for gold?",
+          "options": ["Go", "Ag", "Au", "Gd"],
+          "answer": 2
+        },
+        {
+          "question": "What is the nearest star to Earth?",
+          "options": ["Sirius", "Proxima Centauri", "Sun", "Vega"],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "Technology",
+      "icon": "computer",
+      "questions": [
+        {
+          "question": "What does CPU stand for?",
+          "options": ["Central Process Unit", "Central Processing Unit", "Computer Processing Unit", "Core Processing Utility"],
+          "answer": 1
+        },
+        {
+          "question": "Which company developed Android?",
+          "options": ["Apple", "Microsoft", "Google", "Nokia"],
+          "answer": 2
+        },
+        {
+          "question": "What does URL stand for?",
+          "options": ["Uniform Resource Locator", "Universal Reference Link", "Unique Routing Label", "Unified Resource Link"],
+          "answer": 0
+        },
+        {
+          "question": "Which language is mainly used for Flutter apps?",
+          "options": ["Java", "Kotlin", "Dart", "Swift"],
+          "answer": 2
+        },
+        {
+          "question": "What does RAM represent?",
+          "options": ["Read Access Memory", "Random Access Memory", "Run Access Memory", "Rapid Access Module"],
+          "answer": 1
+        },
+        {
+          "question": "Which is a version control system?",
+          "options": ["Git", "Figma", "Photoshop", "Canva"],
+          "answer": 0
+        },
+        {
+          "question": "What is the brain of the computer?",
+          "options": ["GPU", "SSD", "CPU", "RAM"],
+          "answer": 2
+        },
+        {
+          "question": "Which is not a programming language?",
+          "options": ["Python", "React", "Java", "C++"],
+          "answer": 1
+        },
+        {
+          "question": "What does UI stand for?",
+          "options": ["User Interface", "Unified Input", "Universal Interface", "User Integration"],
+          "answer": 0
+        },
+        {
+          "question": "Which storage is fastest?",
+          "options": ["HDD", "SSD", "DVD", "Tape"],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "History",
+      "icon": "history_edu",
+      "questions": [
+        {
+          "question": "Who was known as the first President of the USA?",
+          "options": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John Adams"],
+          "answer": 1
+        },
+        {
+          "question": "In which year did World War II end?",
+          "options": ["1942", "1945", "1950", "1939"],
+          "answer": 1
+        },
+        {
+          "question": "Which ancient civilization built the pyramids?",
+          "options": ["Romans", "Greeks", "Egyptians", "Mayans"],
+          "answer": 2
+        },
+        {
+          "question": "Who discovered America in 1492?",
+          "options": ["Vasco da Gama", "Christopher Columbus", "Magellan", "Marco Polo"],
+          "answer": 1
+        },
+        {
+          "question": "The Great Wall is located in which country?",
+          "options": ["Japan", "China", "India", "Korea"],
+          "answer": 1
+        },
+        {
+          "question": "Who wrote the Iliad and Odyssey?",
+          "options": ["Socrates", "Plato", "Homer", "Aristotle"],
+          "answer": 2
+        },
+        {
+          "question": "Which empire was ruled by Julius Caesar?",
+          "options": ["Roman", "Ottoman", "British", "Mongol"],
+          "answer": 0
+        },
+        {
+          "question": "Where was Napoleon Bonaparte born?",
+          "options": ["France", "Italy", "Corsica", "Spain"],
+          "answer": 2
+        },
+        {
+          "question": "What was the ship used by the Pilgrims in 1620?",
+          "options": ["Mayflower", "Titanic", "Santa Maria", "Endeavour"],
+          "answer": 0
+        },
+        {
+          "question": "Who was the first man to step on the moon?",
+          "options": ["Yuri Gagarin", "Buzz Aldrin", "Neil Armstrong", "John Glenn"],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}

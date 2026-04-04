@@ -1,0 +1,14 @@
+# Flutter
+.dart_tool/
+.packages
+.pub/
+build/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+Thumbs.db
+Desktop.ini
