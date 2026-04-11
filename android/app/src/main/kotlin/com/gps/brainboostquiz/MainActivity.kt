@@ -1,4 +1,4 @@
-package com.example.brain_boost_quiz
+package com.gps.brainboostquiz
 
 import io.flutter.embedding.android.FlutterActivity
 
