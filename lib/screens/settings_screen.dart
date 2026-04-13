@@ -9,7 +9,7 @@ class SettingsScreen extends StatelessWidget {
   const SettingsScreen({super.key});
 
   static final Uri _privacyUrl =
-      Uri.parse('https://raw.githubusercontent.com/SamRajpoot/Brain-Boost-Quiz/main/PRIVACY_POLICY.md');
+      Uri.parse('https://samrajpoot.github.io/Brain-Boost-Quiz/');
 
   @override
   Widget build(BuildContext context) {

@@ -44,7 +44,7 @@ Use this file while filling Google Play Console.
 
 ## 4) Privacy policy
 
-- Policy URL in Play Console: https://raw.githubusercontent.com/SamRajpoot/Brain-Boost-Quiz/main/PRIVACY_POLICY.md
+- Policy URL in Play Console: https://samrajpoot.github.io/Brain-Boost-Quiz/
 - In-app policy link: already set in lib/screens/settings_screen.dart
 - Must be publicly reachable (no login, no 404, HTTPS valid)
 - Must include a real support contact email

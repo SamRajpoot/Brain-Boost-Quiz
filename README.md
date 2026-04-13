@@ -87,7 +87,7 @@ For production release:
 
 ## Notes Before Publishing
 
-- Privacy policy URL: `https://raw.githubusercontent.com/SamRajpoot/Brain-Boost-Quiz/main/PRIVACY_POLICY.md`
+- Privacy policy URL: `https://samrajpoot.github.io/Brain-Boost-Quiz/`
 - Make sure that URL is publicly reachable before submitting to Google Play
 - Add your app icon and splash branding assets
 - Configure signing (`key.properties`) for release

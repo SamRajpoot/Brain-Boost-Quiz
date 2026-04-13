@@ -68,7 +68,7 @@ Includes offline categories, timed rounds, animated quiz flow, score summary, an
 
 ## Privacy policy
 
-- Privacy policy URL: https://raw.githubusercontent.com/SamRajpoot/Brain-Boost-Quiz/main/PRIVACY_POLICY.md
+- Privacy policy URL: https://samrajpoot.github.io/Brain-Boost-Quiz/
 
 ## Data Safety (suggested answers based on current code)
 
