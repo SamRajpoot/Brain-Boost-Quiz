@@ -22,4 +22,4 @@ Brain Boost Quiz is an offline quiz app.
 
 ## Contact
 
-Replace this section with your support email before publishing to Play Store.
+For privacy questions or support requests, contact: georgebush8939@gmail.com

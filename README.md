@@ -87,7 +87,8 @@ For production release:
 
 ## Notes Before Publishing
 
-- Replace placeholder URL: `https://example.com/privacy-policy`
+- Privacy policy URL: `https://raw.githubusercontent.com/SamRajpoot/Brain-Boost-Quiz/main/PRIVACY_POLICY.md`
+- Make sure that URL is publicly reachable before submitting to Google Play
 - Add your app icon and splash branding assets
 - Configure signing (`key.properties`) for release
 - Fill Play Store listing content with original text/images
